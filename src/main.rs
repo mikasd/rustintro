@@ -1,5 +1,9 @@
-mod print;
+// mod print;
+mod vars;
 
+
+// wheremethodiscomingfrom::method();
 fn main() {
-    print::run();
+    // print::run();
+    vars::run();
 }
